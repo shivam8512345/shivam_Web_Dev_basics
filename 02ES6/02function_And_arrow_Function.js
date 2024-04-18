@@ -1,7 +1,7 @@
 // functions in javascript.
 // function are block of code that is used to perform a particular task in javascript, and we also uses functions to avoid writing mulitple lines of code again and again.
 // It increases redablility and simplicity of our code.
-// By using function we can define individual funciton or each funtionality in our program.
+// By using function we can define individual function or each funtionality in our program.
 
 // function.
 // 1. default function.
@@ -49,3 +49,12 @@ obj2.fullName();
 let myFunction = (a, b) => a * b;
 
 console.log(myFunction(2, 3));
+
+// If you have parameters, you pass them inside the parentheses:
+
+// Arrow Function With Parameters:
+hello = (val) => "Hello " + val;
+
+// In fact, if you have only one parameter, you can skip the parentheses as well:
+// Arrow Function Without Parentheses:
+hello = (val) => "Hello " + val;
