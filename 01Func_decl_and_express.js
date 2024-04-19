@@ -66,5 +66,5 @@ const cube = function (x) {
 const numbers = [0, 1, 2, 5, 10];
 console.log(map1(cube, numbers));
 
-// Calling functions
-// Calling function is going to execute the code of javascript!.
+// Calling functions.
+// Calling function is going to execute the code inside function in javascript!.
