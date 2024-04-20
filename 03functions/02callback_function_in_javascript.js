@@ -1,6 +1,6 @@
 // callback functions in javascript.
 // what is a callback functions in javascript?
-// ans:-you can take a function and passess into another function.
+// ans:- you can take a function and passess into another function.
 
 // This function which you pass into another function is known as callback functions.
 
