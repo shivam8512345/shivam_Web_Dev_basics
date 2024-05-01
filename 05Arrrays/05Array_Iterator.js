@@ -28,9 +28,9 @@ function myForEachValue(value, index, arr) {
 // The Map Function Will Not Execute The Array Value.
 
 // Javascript Array map().
-// The map() method creates a new array by performing a function on each array element.
+// The Map() Method Creates A New Array By Performing A Function On Each Array Elements.
 
-// The map() method does not execute the function for array elements without values.
+// The Map() Method Does Not Execute The Function For Array Elements Without Values.
 
 // The map() method does not change the original array.
 
