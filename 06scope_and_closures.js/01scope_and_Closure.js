@@ -5,7 +5,7 @@
 
 // A function gives you an access of outer function with it's Inner Function.
 
-// This Is What Closure Is!.
+// This Is What Closure Is.
 function x() {
   var a = 7;
   function y() {
@@ -39,7 +39,7 @@ function x() {
 var z = x();
 console.log(z);
 
-// ............... (thousands of line of code here.....).
+// ............... (Thousands of Line Of Code Here.....).
 
 /*
 function y(){
